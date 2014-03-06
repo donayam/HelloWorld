@@ -1,9 +1,9 @@
 package com.dventus.sm502;
 
 import java.util.Scanner;
-public class Hello {
+public class Main {
 
-	public static void main()
+	public static void main(String[] args)
 	{
 		int x=0;
 	    Scanner s = new Scanner(System.in);
